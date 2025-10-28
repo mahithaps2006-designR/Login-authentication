@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(to right, #007bff, #6610f2);
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+#alert {
+  font-weight: 500;
+}
